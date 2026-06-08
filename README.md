@@ -1,5 +1,3 @@
-# pre-meeting-brief-generator
-AI sales tool that produces operator-quality pre-meeting briefs for enterprise account executives.
 # Pre-Meeting Brief Generator
 
 An AI sales tool that produces operator-quality pre-meeting briefs for enterprise account executives — built by a sales leader who got tired of reps walking into discovery calls with a Google search and a LinkedIn skim.
@@ -44,13 +42,13 @@ Every brief follows the same structure:
 
 ---
 
-## Example briefs
+## Example output
 
-Real outputs in `/examples`:
+Real output in `/examples`:
 
-- `anthropic-kate-jensen.md` — interview prep brief for an enterprise AE candidate
-- `openai-brad-lightcap.md` — partnership meeting brief
-- `coreweave-pre-meeting.md` — discovery call brief
+- `anthropic-kate-jensen.md` — interview prep brief for an enterprise AE candidate at Anthropic
+
+More examples coming as I run the tool against my own target list.
 
 ---
 
