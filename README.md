@@ -50,7 +50,8 @@ Every brief follows the same structure:
 
 Real output in `/examples`:
 
-- `anthropic-kate-jensen.md` — interview prep brief for an enterprise AE candidate at Anthropic
+- `anthropic-kate-jensen.md` — V1 interview prep brief, single attendee
+- `anthropic-multi-stakeholder.md` — V2 multi-stakeholder interview brief (Kate Jensen + Paul Smith), with buying-committee read, pre-call coaching block, and tailored cold email
 
 More examples coming as I run the tool against my own target list.
 
